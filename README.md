@@ -1,1 +1,1 @@
-# MERN-project
+# user management-project
